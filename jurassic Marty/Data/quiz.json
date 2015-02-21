@@ -1,0 +1,46 @@
+ [
+  {
+  "image":"dino1.png",
+  "question":"A che razza appartiene ?",
+  "answers":[
+             "Triceratopo",
+             "Pterodattilo",
+             "Brontosauro",
+             "Nonsosauro"
+             ],
+  "response":2
+  },
+  {
+  "image":"dino2.png",
+  "question":"Che dinosauro è questo ?",
+  "answers":[
+             "Tirannosauro",
+             "Deinonico",
+             "Magiosauro",
+             "Nonsosauro"
+             ],
+  "response":1
+  },
+  {
+  "image":"dino3.png",
+  "question":"Che dinosauro è questo ?",
+  "answers":[
+             "Tirannosauro",
+             "Deinonico",
+             "Triceratopo",
+             "Nonsosauro"
+             ],
+  "response":2
+  },
+  {
+  "image":"dino4.png",
+  "question":"Che dinosauro è questo ?",
+  "answers":[
+             "Tirannosauro",
+             "Deinonico",
+             "Magiosauro",
+             "Pterodattilo"
+             ],
+  "response":3
+  }
+    ]
